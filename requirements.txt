@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+scrapy
+crochet
+wordcloud
+matplotlib
+nltk
